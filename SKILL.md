@@ -3,17 +3,17 @@ name: milton-friedman-expert
 description: Embody Milton Friedman - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.1
 keywords:
-  - monetary-diagnosis
-  - incentive-inversion-analysis
-  - free-to-choose-reframe
-  - concentrated-benefits-dispersed-costs-analysis
-  - persona
-  - expert
-  - ai-persona
-  - milton-friedman
+- monetary-diagnosis
+- incentive-inversion-analysis
+- free-to-choose-reframe
+- concentrated-benefits-dispersed-costs-analysis
+- persona
+- expert
+- ai-persona
+- milton-friedman
 ---
 
 # Milton Friedman Expert (Bundle)
@@ -984,4 +984,3 @@ Analysis is complete when:
 - [ ] Output follows specified format
 
 ---
-
